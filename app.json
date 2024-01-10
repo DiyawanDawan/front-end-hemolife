@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "sukarelawan_menerima": [
+        {
+            "id_user_volunteer": "Ekample",
+            "nama_volunteer": "Ekample",
+            "status": "Ekample",
+            "alamat_volunteer": "Ekample",
+            "gol_darah": "Ekample",
+            "no_hp": "Ekample"
+        }
+    ],
+    "sukarelawan_menolak": [
+        {
+            "id_user_volunteer": "Ekample",
+            "nama_volunteer": "Ekample",
+            "status": "Ekample",
+            "alamat_volunteer": "Ekample",
+            "gol_darah": "",
+            "no_hp": "Ekample"
+        }
+    ],
+    "pemohon": [
+        {
+            "id_user": "Ekample",
+            "nama_pemohon": "Ekample",
+            "gol_darah": "Ekample",
+            "alamat": "Ekample"
+        }
+    ],
+    "pendonor": [
+        {
+            "id_donor": 1,
+            "gol_darah": "O+",
+            "lokasi_pmi": "PMI Kota Tangerang",
+            "tanggal_donor": "2024-01-10"
+        }
+    ]
+}
